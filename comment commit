@@ -1,0 +1,56 @@
+Ah parfait 👍
+Donc **on garde le même repo**, mais **on remplace le nom du fichier** par :
+
+👉 `Documentation_Pro_Net_Technologie-REK.md`
+
+Voici la version corrigée 👇
+
+---
+
+######################################################################################################################################################
+**TOUS les bouts de code :**
+
+* Toujours **CTRL + S** pour sauvegarder
+* Vérifier que **VS Code détecte la modification**
+* Ajouter les fichiers **un par un**
+
+⚠️ Si vous devez recommit alors que vous avez déjà commit auparavant :
+→ **fermez VS Code**, relancez-le, puis vous pouvez retravailler
+######################################################################################################################################################
+
+```bash
+// ajouter la documentation modifiée
+git add Documentation_Pro_Net_Technologie-REK.md
+```
+
+```bash
+// ajouter le fichier des commandes Git (si modifié)
+git add commandeGitHub.md
+```
+
+```bash
+// confirmer les modifications
+git commit -m "mise à jour de la documentation REK"
+```
+
+```bash
+// envoyer les changements sur GitHub
+git push origin main
+```
+
+```bash
+// rafraîchir l’arbre du projet
+git pull origin main
+```
+
+######################################################################################################################################################
+**VOILÀ, VOTRE TRAVAIL EST TERMINÉ ✅**
+######################################################################################################################################################
+
+Si tu veux, je peux aussi :
+
+* adapter le message de commit exactement comme demandé par ton prof
+* vérifier que le nom du fichier correspond bien à celui sur GitHub
+* te faire une version **ultra simple spécial CFC**
+
+Dis-moi 👌
